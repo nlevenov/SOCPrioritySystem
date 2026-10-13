@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 Please do not open a public issue for security problems. Use GitHub's
-[private vulnerability reporting](https://github.com/nlevenov/soc-alert-prioritizer/security/advisories/new)
+[private vulnerability reporting](https://github.com/nlevenov/SOCPrioritySystem/security/advisories/new)
 instead. I aim to acknowledge reports within 72 hours.
 
 ## Threat model

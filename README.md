@@ -1,6 +1,6 @@
 # SOC Alert Prioritizer
 
-![CI](https://github.com/nlevenov/soc-alert-prioritizer/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/nlevenov/SOCPrioritySystem/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-3670A0?logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -111,8 +111,8 @@ More detail in [docs/architecture.md](docs/architecture.md).
 ## Quick start
 
 ```bash
-git clone https://github.com/nlevenov/soc-alert-prioritizer.git
-cd soc-alert-prioritizer
+git clone https://github.com/nlevenov/SOCPrioritySystem.git
+cd SOCPrioritySystem
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
 
